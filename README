@@ -2,6 +2,11 @@ v1
 v2
 Change1
 Change2
+<<<<<<< HEAD
 Make conflict happen
+||||||| merged common ancestors
+=======
+try to make it conflict
+>>>>>>> 060aa46b00ff2afd670051a4dfb14e84e028441b
 Change3
 "C:\Documents and Settings\ghost\Local Settings\Application Data\SogouExplorer\SogouExplorer.exe"
