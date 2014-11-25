@@ -1,0 +1,3 @@
+[submodule "lib/switchysharp"]
+	path = lib/switchysharp
+	url = https://github.com/schemacs/switchysharp.git
